@@ -1,5 +1,7 @@
 ## Usage and License Summary
 
+This repository uses a custom license. See LICENSE.md for full terms.
+
 This project provides an open hardware reference design for a hybrid telescope mount controller compatible with OnStep and NS-5000.
 
 ### What you CAN do
