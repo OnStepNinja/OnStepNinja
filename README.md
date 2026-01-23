@@ -26,6 +26,20 @@ In 2025, I released **AiBridge**, an interface system connecting
 OnStep, NS-5000, and external devices, and **OnStepNinja**,  
 a hybrid telescope control framework integrating OnStep and NS-5000.
 
+For binaries and applications, please visit my BOOTH page:
+https://onstepninja.booth.pm/
+NS-5000 packages are available as paid downloads, while OnStep (NS-300) related files are provided for free.
+
+## Downloads / External Resources
+
+- NS-5000 binaries and tools (paid, BOOTH)  
+  https://onstepninja.booth.pm/
+
+- OnStep (NS-300) related files (free, BOOTH)  
+  https://onstepninja.booth.pm/
+
+- Official OnStep project repository  
+  https://github.com/hjd1964/OnStep
 
 ## Usage and License Summary
 
