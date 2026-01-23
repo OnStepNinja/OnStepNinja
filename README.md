@@ -28,7 +28,7 @@ a hybrid telescope control framework integrating OnStep and NS-5000.
 
 For binaries and applications, please visit my BOOTH page:
 https://onstepninja.booth.pm/
-NS-5000 packages are available as paid downloads, while OnStep (NS-300) related files are provided for free.
+NS-5000 packages are available as paid downloads, while OnStep (NS-3000) related files are provided for free.
 
 ## Downloads / External Resources
 
