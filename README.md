@@ -1,7 +1,7 @@
 ## About the Author
 
 The systems and design philosophy behind OnStepNinja, NS-5000,
-and AiBridge are based on more than four decades of hands-on
+and AiBridge are grounded in many years of hands-on
 experience in real-time control and embedded systems.
 
 I am a hardware and software engineer with a background in
