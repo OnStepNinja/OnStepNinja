@@ -34,7 +34,6 @@ All rights reserved.
 1. Personal Use: The licensor grants the purchaser (single user) a non-exclusive, non-transferable right to use the Licensed Software and Materials for personal, educational, or research purposes.
 
 2. Hardware Construction: You may build and use hardware based on the Licensed Materials and install the Licensed Software for your own personal use.
-You are permitted to:
 
 ---
 
